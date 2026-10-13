@@ -26,6 +26,8 @@ Choco Shop is a full-stack e-commerce web application for browsing chocolate pro
 
 - Browse chocolate products and collections
 - Search for products
+- Filter products
+- Manfucturer details
 - Add products to the shopping cart
 - Review cart items and order totals
 - Enter delivery information when placing an order
@@ -112,7 +114,6 @@ The backend requires a valid MongoDB connection configuration. Create a local `.
 
 ## Future Improvements
 
-- Improve input validation and error handling
 - Add automated tests
 - Improve deployment and production configuration
 
